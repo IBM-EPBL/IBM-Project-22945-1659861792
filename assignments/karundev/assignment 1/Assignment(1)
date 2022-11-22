@@ -9,15 +9,15 @@
 </head>
 <body>
 <div id="header">
-    <p id="name">Abdul Rahman.V</p>
-    <p>rahmansajitha007@gmail.com</p>
+    <p id="name">Karun Dev K</p>
+    <p>karundev007@gmail.com</p>
         <p id="contact">+91 9150992081</p>
 </div>
 <div class="resume-main">
 	<div class="left-box">
 		<br><br>
 		<div class="profile">
-			<img src="/Users/aaryinfantrewin/Downloads/ajay.jpeg"
+
 			width="200" height="121">
 		</div>
 		<div class="content-box">
